@@ -1,2 +1,2 @@
-# python-sanic-starter
-A basic educational starter project for python sanic.
+# Python Sanic Starter
+A basic educational starter project for python sanic web server.
